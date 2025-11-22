@@ -1,6 +1,7 @@
 package array.lys;
 import java.util.Arrays;
 
+// Arrays.sort로 refactoring 해보기.
 public class Test01 {
 
     public static void main(String[] args) {

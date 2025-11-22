@@ -1,4 +1,4 @@
-package ssh;
+package array.ssh;
 
 import java.util.Arrays;
 

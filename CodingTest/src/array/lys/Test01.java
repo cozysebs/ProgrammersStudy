@@ -1,7 +1,7 @@
-package lys;
+package array.lys;
 import java.util.Arrays;
 
-public class Test {
+public class Test01 {
 
     public static void main(String[] args) {
         int[] array = {1,5,2,6,3,7,4};
